@@ -1,5 +1,5 @@
 # Laravel
-[![Build Status](https://travis-ci.org/kyled7/slar.svg?branch=master)](https://travis-ci.org/kyled7/slar)
+[![Build Status](https://travis-ci.org/scuti-asia/laravel.svg?branch=master)](https://travis-ci.org/scuti-asia/laravel)
 
 Yet another Laravel boilerplate!
 
